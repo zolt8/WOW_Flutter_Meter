@@ -1,0 +1,13 @@
+/.metadata/*.lock
+/.metadata
+/WFmeter/*.cproject
+/WFmeter/*.project
+/WFmeter/.settings
+/WFmeter/Debug
+/WFmeter/Release
+/WFtest/*.cproject
+/WFtest/*.project
+/WFtest/.settings
+/WFtest/Debug
+/WFtest/test1.wav
+/WFtest/Release/src
